@@ -330,6 +330,7 @@ scorep-intel-impi-ohpc 3.0 http://www.vi-hps.org/projects/score-p/ ohpc/perf-too
 scorep-intel-mpich-ohpc 3.0 http://www.vi-hps.org/projects/score-p/ ohpc/perf-tools Scalable Performance Measurement Infrastructure for Parallel Codes
 scorep-intel-mvapich2-ohpc 3.0 http://www.vi-hps.org/projects/score-p/ ohpc/perf-tools Scalable Performance Measurement Infrastructure for Parallel Codes
 scorep-intel-openmpi-ohpc 3.0 http://www.vi-hps.org/projects/score-p/ ohpc/perf-tools Scalable Performance Measurement Infrastructure for Parallel Codes
+sensys-ohpc 1.0.0 https://github.com/intel-ctrlsys/sensys ohpc/admin Sensor Monitoring System
 shine-ohpc 1.5 http://lustre-shine.sourceforge.net/ ohpc/lustre Lustre administration utility
 singularity-ohpc 2.3 http://singularity.lbl.gov/ ohpc/runtimes Application and environment virtualization
 sionlib-gnu-impi-ohpc 1.7.0 http://www.fz-juelich.de/ias/jsc/EN/Expertise/Support/Software/SIONlib/_node.html ohpc/perf-tools Scalable Performance Measurement Infrastructure for Parallel Codes

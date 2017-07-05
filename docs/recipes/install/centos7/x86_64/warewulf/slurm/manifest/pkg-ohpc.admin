@@ -26,4 +26,5 @@ nrpe-ohpc 3.1.0 http://www.nagios.org ohpc/admin Host/service/network monitoring
 ohpc-release 1.3 https://github.com/openhpc/ohpc ohpc/admin OpenHPC release files
 pdsh-ohpc 2.31 http://sourceforge.net/projects/pdsh ohpc/admin Parallel remote shell program
 prun-ohpc 1.1 https://github.com/openhpc/ohpc ohpc/admin Convenience utility for parallel job launch
+sensys-ohpc 1.0.0 https://github.com/intel-ctrlsys/sensys ohpc/admin Sensor Monitoring System
 test-suite-ohpc 1.3.1 https://github.com/openhpc/ohpc/tests ohpc/admin Integration test suite for OpenHPC
